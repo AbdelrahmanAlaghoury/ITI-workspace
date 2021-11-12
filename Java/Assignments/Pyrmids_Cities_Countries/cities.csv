@@ -1,0 +1,29 @@
+City / Urban area,Population,Surface Area,ISO-alpha3 Code,Continent,IsCapital
+Essen/Düsseldorf,7350000,2642,DEU,Europe,false
+Berlin,3675000,984,DEU,Europe,true
+Frankfurt,2260000,984,DEU,Europe,false
+Hamburg,1925000,829,DEU,Europe,false
+Cologne/Bonn,1960000,816,DEU,Europe,false
+Munich,1600000,518,DEU,Europe,false
+Stuttgart,1250000,414,DEU,Europe,false
+Aachen,585000,401,DEU,Europe,false
+Melbourne,3162000,2080,AUS,Oceania,false
+Sydney,3502000,1687,AUS,Oceania,false
+Brisbane,1508000,1603,AUS,Oceania,false
+Perth,1177000,964,AUS,Oceania,false
+Adelaide,1002000,729,AUS,Oceania,false
+Gold Coast,422000,383,AUS,Oceania,false
+Sao Paulo,17700000,1968,BRA,South America,false
+Rio de Janeiro,10800000,1580,BRA,South America,false
+Belo Horizonte,4000000,868,BRA,South America,false
+Curitiba,2500000,648,BRA,South America,false
+Brasilia,1625000,583,BRA,South America,true
+Fortaleza,2650000,583,BRA,South America,false
+Porto Alegre,2800000,583,BRA,South America,false
+Campinas,1750000,492,BRA,South America,false
+Goiania,1475000,479,BRA,South America,false
+Recife,3025000,376,BRA,South America,false
+Milan,4250000,1554,ITA,Europe,false
+Rome,2500000,842,ITA,Europe,true
+Naples,2400000,583,ITA,Europe,false
+Turin,1350000,500,ITA,Europe,false
