@@ -35,7 +35,7 @@ The majority of the projects and assignments I completed while enrolled in the p
   │   ├── Bisection_FixedPoint_Newton.ipynb
   │   ├── Domestic-feline-tabby-cat.jpg
   │   ├── Image_Compression numerical algorithm .ipynb
-  │   └── Quadrtic function and optimization.ipynb
+  │   └── Quadrtic_function_and_optimization.ipynb
   ├── Numerical_optimization
   │   ├── Adagrad_RMSProb_Adam.py
   │   ├── BGD_MBGD_SGD.py
