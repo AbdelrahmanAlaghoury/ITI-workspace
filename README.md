@@ -43,7 +43,6 @@ ITI-workspace
   │   ├── BGD_MBGD_SGD.py
   │   ├── Gradient_descent.py
   │   ├── LinearModel.py
-  │   ├── LinearRegressionModel.py
   │   ├── Model_test.py
   │   ├── MomentumGD_NAG.py
   │   └── OOP_GD_Implementation_Test.ipynb
