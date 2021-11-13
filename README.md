@@ -4,8 +4,9 @@ The majority of the projects and assignments I completed while enrolled in the p
 
 # Directory structure
 
-**ITI-workspace**
+
 ```bash
+ITI-workspace
   ├── Algorithms_workshop
   │   ├── Algorithms_workshop.py
   │   ├── Algorthims_NetworkX.py
